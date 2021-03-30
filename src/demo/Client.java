@@ -4,6 +4,7 @@ import java.util.List;
 
 public class Client {
   private int noClient;
+  private Commercial commercialActuel;
   
   private List<Compte> comptes;
 
