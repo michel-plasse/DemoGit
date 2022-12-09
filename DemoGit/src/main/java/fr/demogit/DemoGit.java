@@ -7,7 +7,7 @@ package fr.demogit;
 
 /**
  *
- * @author quentinseillon
+ * @author prouf
  */
 public class DemoGit {
 
