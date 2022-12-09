@@ -10,4 +10,10 @@ public class Mouhamadou {
     private int age;
     private String nom, prenom;
     private boolean UnHomme;
+
+    public int getAge() {
+        return age;
+    }
+    
+    
 }
