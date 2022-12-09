@@ -8,4 +8,9 @@ public class Quentin {
     private int autreEntier;
     private int unEntier;
     private String uneChaine;
+
+    public int getUnEntier() {
+        return unEntier;
+    }
+    
 }
