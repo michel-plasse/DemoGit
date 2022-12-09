@@ -11,4 +11,11 @@ public class Mouhamadou {
     private String nom, prenom;
     private boolean UnHomme;
     private String UneChaine;
+
+    public String getUneChaine() {
+        return UneChaine;
+    }
+    
+    
+    
 }
