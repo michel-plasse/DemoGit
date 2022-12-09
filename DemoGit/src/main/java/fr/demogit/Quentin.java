@@ -7,4 +7,5 @@ package fr.demogit;
 public class Quentin {
     private int autreEntier;
     private int unEntier;
+    private String uneChaine;
 }
