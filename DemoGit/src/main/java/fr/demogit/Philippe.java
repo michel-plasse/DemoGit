@@ -11,7 +11,11 @@ package fr.demogit;
 public class Philippe {
     private int unEntier;
     private int unAutreEntier;
-    private boolean OwO
+    private boolean OwO;
     private String UwU;
+
+    public int getUnEntier() {
+        return unEntier;
+    }
     
 }
