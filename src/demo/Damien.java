@@ -1,7 +1,11 @@
 package demo;
 
 public class Damien {
-public String truc = "qui me concerne";
-public final int quaranteDeux = 42;
-public int po = 40;
+private String truc = "qui me concerne";
+private final int quaranteDeux = 42;
+private int po = 40;
+
+public int getQuaranteDeux() {
+	return quaranteDeux;
+}
 }
