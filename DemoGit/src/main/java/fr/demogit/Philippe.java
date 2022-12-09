@@ -17,5 +17,10 @@ public class Philippe {
     public int getUnEntier() {
         return unEntier;
     }
+
+    public void setUwU(String UwU) {
+        this.UwU = UwU;
+    }
+    
     
 }
